@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AiMedTech - AI-Powered Medical Solutions</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">AiMedTech</div>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>Welcome to AiMedTech</h1>
+        <p>Revolutionizing Healthcare with AI</p>
+        <a href="#contact" class="cta-button">Get in Touch</a>
+    </section>
+
+    <section id="about">
+        <h2>About AiMedTech</h2>
+        <p>AiMedTech is an AI-powered platform designed to enhance medical diagnostics and healthcare efficiency.</p>
+    </section>
+
+    <section id="features">
+        <h2>Our Features</h2>
+        <ul>
+            <li>✅ AI-based medical diagnostics</li>
+            <li>✅ Real-time health monitoring</li>
+            <li>✅ Secure patient data management</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: contact@aimedtech.in</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 AiMedTech. All rights reserved.</p>
+    </footer>
+
+</body>
+</html>
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 15px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 20px;
+}
+
+.logo {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.hero {
+    background-color: #007BFF;
+    color: white;
+    padding: 60px 20px;
+}
+
+.cta-button {
+    background-color: #28A745;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    font-size: 18px;
+    border-radius: 5px;
+}
+
+section {
+    padding: 40px 20px;
+}
+
+footer {
+    background-color: #222;
+    color: white;
+    padding: 10px 0;
+}
+document.addEventListener("DOMContentLoaded", function() {
+    console.log("AiMedTech Landing Page Loaded");
+});
