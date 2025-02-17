@@ -111,3 +111,64 @@ footer {
     color: white;
     padding: 10px;
 }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    background: #333;
+}
+
+nav ul li {
+    display: inline;
+    margin: 10px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+#hero {
+    background: #28A745;
+    color: white;
+    padding: 50px 20px;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #007BFF;
+    color: white;
+    text-decoration: none;
+    margin-top: 10px;
+}
+
+#features ul {
+    list-style: none;
+    padding: 0;
+}
+
+#features ul li {
+    background: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+footer {
+    background: #333;
+    color: white;
+    padding: 10px;
+}
