@@ -24,13 +24,11 @@
         <p>Revolutionizing Healthcare with AI</p>
         <a href="#contact" class="cta-button">Get in Touch</a>
     </section>
-
-    <section id="about">
+<section id="about">
         <h2>About AiMedTech</h2>
         <p>AiMedTech is an AI-powered platform designed to enhance medical diagnostics and healthcare efficiency.</p>
     </section>
-
-    <section id="features">
+ <section id="features">
         <h2>Our Features</h2>
         <ul>
             <li>✅ AI-based medical diagnostics</li>
@@ -38,8 +36,7 @@
             <li>✅ Secure patient data management</li>
         </ul>
     </section>
-
-    <section id="contact">
+ <section id="contact">
         <h2>Contact Us</h2>
         <p>Email: contact@aimedtech.in</p>
     </section>
