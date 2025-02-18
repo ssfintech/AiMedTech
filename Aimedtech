@@ -7,8 +7,7 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
-    <header>
+<header>
         <div class="logo">AiMedTech</div>
         <nav>
             <ul>
@@ -18,8 +17,7 @@
             </ul>
         </nav>
     </header>
-
-    <section class="hero">
+<section class="hero">
         <h1>Welcome to AiMedTech</h1>
         <p>Revolutionizing Healthcare with AI</p>
         <a href="#contact" class="cta-button">Get in Touch</a>
@@ -40,8 +38,7 @@
         <h2>Contact Us</h2>
         <p>Email: contact@aimedtech.in</p>
     </section>
-
-    <footer>
+<footer>
         <p>&copy; 2025 AiMedTech. All rights reserved.</p>
     </footer>
 
@@ -54,7 +51,6 @@ body {
     text-align: center;
     background-color: #f4f4f4;
 }
-
 header {
     background-color: #007BFF;
     color: white;
